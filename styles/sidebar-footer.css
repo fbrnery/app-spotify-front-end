@@ -1,6 +1,7 @@
 body {
     background-color: #000;
     color: #fff;
+    font-family: var(--font-dm-sans);
 }
 
 .sidebar {
@@ -40,7 +41,6 @@ body {
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
-    font-family: "Dm Sans", sans-serif;
 }
 
 .sidebar ul li {
@@ -68,7 +68,6 @@ body {
     border: 0px;
     font-size: 1rem;
     font-weight: 700;
-    font-family: 'Montserrat', sans-serif;
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -133,7 +132,6 @@ body {
     display: flex;
     font-size: 0.8rem;
     font-weight: 700;
-    font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
